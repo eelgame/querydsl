@@ -52,6 +52,7 @@ final class Keywords {
     public static final Set<String> MYSQL = readLines("mysql");
     public static final Set<String> ORACLE = readLines("oracle");
     public static final Set<String> POSTGRESQL = readLines("postgresql");
+    public static final Set<String> CLICKHOUSE = readLines("clickhouse");
     public static final Set<String> SQLITE = readLines("sqlite");
     public static final Set<String> SQLSERVER2005 = readLines("sqlserver2005");
     public static final Set<String> SQLSERVER2008 = readLines("sqlserver2008");
